@@ -108,3 +108,7 @@ Q.idea/sonarlint/securityhotspotstore/c/2/c22462bb088468baaea842749e0b2714ef850e
 Q.idea/sonarlint/securityhotspotstore/6/6/66a8ada380a8d6898d64e0403e14ec4c17777435,3\7\37c606108599c789aaac1fe422fd3a364ddf95f2
 Å
 Q.idea/sonarlint/securityhotspotstore/9/1/9199f9a9b04aa159d443d8f29ea6348bf2dc00f3,1\8\18d7cbb7ca8cf9beaf0efa7a723dcda28044d781
+~
+Napp/src/test/java/com/example/earthquakeapplication/EarthquakeViewModelTest.kt,9\1\91902d079a0bde6f7d1110649a1632bddba40a2b
+x
+Happ/src/test/java/com/example/earthquakeapplication/UtilFunctionsTest.kt,6\1\61ede315640c3881db8eebb4bd00ce4abf6a0210
