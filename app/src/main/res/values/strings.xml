@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Earthquake Application</string>
+    <string name="earthquake_board">Earthquake Board</string>
+    <string name="location">location</string>
+    <string name="alert">Alert：</string>
+    <string name="updated">updated</string>
+    <string name="time">time</string>
+    <string name="title">title</string>
+</resources>
